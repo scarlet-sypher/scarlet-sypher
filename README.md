@@ -246,7 +246,7 @@
         <p><em>Intelligent Podcast Discovery with AI-Powered Recommendations</em></p>
         <p><strong>🔥 Features:</strong> AI matching, Personalized feeds, Smart search</p>
         <div align="center">
-          <a href="https://github.com/scarlet-sypher/podcast-ai-recommender" target="_blank">
+          <a href="https://github.com/scarlet-sypher/Podcast-Recommendation-ChatBot" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B35&color=E85A2B"/>
           </a>
           <!-- <a href="https://podcast-ai.vercel.app" target="_blank">
