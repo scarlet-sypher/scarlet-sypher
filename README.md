@@ -146,6 +146,7 @@
   <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,playwright&perline=4&theme=dark" />
 </div>
 
+<!---
 ---
 
 <div align="center">
@@ -214,6 +215,8 @@
 </div>
 
 ---
+
+-->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760677-0d8a019e-9d68-4fb3-bdf2-0e6f56d65b6c.gif" width="60">
