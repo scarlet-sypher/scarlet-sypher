@@ -116,8 +116,12 @@
 
 ### ⚙️ **BACKEND POWERHOUSE**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,java,spring,php,laravel,ruby,rails,go,rust,graphql,postman,insomnia&perline=8&theme=dark" />
+</div> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,spring,php&perline=8&theme=dark" />
 </div>
 
 ### 🗄️ **DATABASE & STORAGE EMPIRE**
@@ -169,6 +173,16 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=selenium&perline=4&theme=dark" />
+</div>
+
+### 🧮 **DATA STRUCTURES & ALGORITHMS**
+
+<!-- <div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go,rust&perline=7&theme=dark" />
+</div> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=7&theme=dark" />
 </div>
 
 <!---
