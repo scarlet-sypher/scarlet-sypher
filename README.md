@@ -106,8 +106,12 @@
 
 ### 🎨 **FRONTEND MASTERY**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,svelte,angular,tailwind,bootstrap,sass,materialui,figma,vite,webpack&perline=9&theme=dark" />
+</div> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&perline=9&theme=dark" />
 </div>
 
 ### ⚙️ **BACKEND POWERHOUSE**
@@ -118,36 +122,57 @@
 
 ### 🗄️ **DATABASE & STORAGE EMPIRE**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase,sqlite,cassandra,elasticsearch&perline=9&theme=dark" />
+</div> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&perline=9&theme=dark" />
 </div>
 
 ### ☁️ **CLOUD & DEVOPS DOMINANCE**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,vercel,netlify,heroku,nginx,apache&perline=7&theme=dark" />
+</div> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify,heroku,apache&perline=7&theme=dark" />
 </div>
 
 ### 🛠️ **DEVELOPMENT ENVIRONMENT**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm,vim,linux,ubuntu,bash,powershell,yarn,npm&perline=7&theme=dark" />
+</div> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm,linux,ubuntu,bash,powershell,npm&perline=7&theme=dark" />
 </div>
 
 ### 📱 **MOBILE & ADDITIONAL SKILLS**
 
+<!--
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,unity,blender,photoshop,illustrator,arduino,raspberrypi&perline=6&theme=dark" />
+</div> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,arduino&perline=6&theme=dark" />
 </div>
 
 ### 🧪 **TESTING & QUALITY ASSURANCE**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,playwright&perline=4&theme=dark" />
+</div> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=selenium&perline=4&theme=dark" />
 </div>
 
 <!---
----
+##
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760677-0d8a019e-9d68-4fb3-bdf2-0e6f56d65b6c.gif" width="60">
@@ -414,7 +439,7 @@
   </div>
 </div>
 
----
+## <!--
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
@@ -445,7 +470,7 @@
   </table>
 </div>
 
----
+--- -->
 
 <!-- Comming soon................1111111111111111111111111111111111111111.!!!!!!!!!!!!!!!!!!!!!!!111
 
