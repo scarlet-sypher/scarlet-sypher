@@ -453,39 +453,6 @@
   </div>
 </div>
 
-## <!--
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
-  <h1>🎨 LATEST BLOG POSTS & ARTICLES 🎨</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150"/>
-        <h4>📝 "Building Scalable React Applications"</h4>
-        <p><em>A deep dive into modern React patterns and best practices</em></p>
-        <a href="https://dev.to/scarlet-sypher/building-scalable-react-apps">
-          <img src="https://img.shields.io/badge/Read%20Article-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="150"/>
-        <h4>🔥 "Mastering Full-Stack Development"</h4>
-        <p><em>From frontend magic to backend sorcery - A complete guide</em></p>
-        <a href="https://dev.to/scarlet-sypher/mastering-fullstack-development">
-          <img src="https://img.shields.io/badge/Read%20Article-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
---- -->
-
 <!-- Comming soon................1111111111111111111111111111111111111111.!!!!!!!!!!!!!!!!!!!!!!!111
 
 <div align="center">
@@ -516,3 +483,33 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,45,58&height=150&section=footer&animation=fadeIn"/>
 </div>
+
+<!-- <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
+  <h1>🎨 LATEST BLOG POSTS & ARTICLES 🎨</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150"/>
+        <h4>📝 "Building Scalable React Applications"</h4>
+        <p><em>A deep dive into modern React patterns and best practices</em></p>
+        <a href="https://dev.to/scarlet-sypher/building-scalable-react-apps">
+          <img src="https://img.shields.io/badge/Read%20Article-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="150"/>
+        <h4>🔥 "Mastering Full-Stack Development"</h4>
+        <p><em>From frontend magic to backend sorcery - A complete guide</em></p>
+        <a href="https://dev.to/scarlet-sypher/mastering-fullstack-development">
+          <img src="https://img.shields.io/badge/Read%20Article-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+ -->
